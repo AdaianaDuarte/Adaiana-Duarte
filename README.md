@@ -1,4 +1,51 @@
-# Adaiana-Duarte
+<h1 align="center">Olá, eu sou Adaiana Duarte 👋</h1>
+
+<p align="center">
+Sou apaixonada por tecnologia e programação! <br>
+Sempre buscando aprender e evoluir como desenvolvedor 💻🚀
+</p>
+
+---
+
+### 📊 Minhas estatísticas no GitHub
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Adaiana-Duarte&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adaiana-Duarte&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages"/>
+</p>
+
+---
+
+### 🏆 Conquistas
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Adaiana-Duarte&theme=onestar&no-bg=true&no-frame=true&margin-w=15" />
+</p>
+
+---
+
+### 💡 Tecnologias que uso
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" title="C#"/>
+</p>
+
+---
+
+### 📫 Fale comigo
+
+- Email: viniciusmoreirasilva272@gmail.com
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Obrigado%20pela%20visita!-💻-blue?style=for-the-badge" />
+</p>
 ```
 code --install-extension drcika.apc-extension --force
 code --install-extension formulaHendry.auto-close-tag --force
