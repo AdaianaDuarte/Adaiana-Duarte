@@ -1,5 +1,5 @@
 # Adaiana-Duarte
-
+```
 code --install-extension drcika.apc-extension --force
 code --install-extension formulaHendry.auto-close-tag --force
 code --install-extension naumovs.color-highlight --force
@@ -20,3 +20,4 @@ code --install-extension MehediDracula.php-namespace-resolver --force
 code --install-extension esbenp.prettier-vscode --force
 code --install-extension Alexey-Strakh.stackoverflow-search --force
 code --install-extension miguelsolorio.symbols --force
+```
