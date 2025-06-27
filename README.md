@@ -40,7 +40,7 @@ Sempre buscando aprender e evoluir como desenvolvedor 💻🚀
 
 ### 📫 Fale comigo
 
-- Email: viniciusmoreirasilva272@gmail.com
+- Email: daianaduarte0083@gmail.com
 ---
 
 <p align="center">
