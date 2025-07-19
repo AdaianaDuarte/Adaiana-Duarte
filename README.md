@@ -10,8 +10,8 @@ Sempre buscando aprender e evoluir como desenvolvedora 💻🚀
 ### 📊 Minhas estatísticas no GitHub
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Adaiana-Duarte&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adaiana-Duarte&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DayDuarte&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DayDuarte&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ---
