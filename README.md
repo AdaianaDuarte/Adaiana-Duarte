@@ -19,7 +19,7 @@ Sempre buscando aprender e evoluir como desenvolvedora 💻🚀
 ### 🏆 Conquistas
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adaiana-Duarte&theme=onestar&no-bg=true&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DayDuarte&theme=onestar&no-bg=true&no-frame=true&margin-w=15" />
 </p>
 
 ---
